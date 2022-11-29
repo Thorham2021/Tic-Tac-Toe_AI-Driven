@@ -1,4 +1,4 @@
-# AI_Driven-Tic-Tac-Toe
+# Tic-Tac-Toe_AI-Driven
 
 Play this game in Command line with AI
 
